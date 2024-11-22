@@ -9,3 +9,4 @@ https://github.com/2303A51980/23CSBTB30/blob/main/svm.ipynb
 https://github.com/2303A51980/23CSBTB30/blob/main/Decision_tree_assignment_7_ipyb.ipynb
 https://github.com/2303A51980/23CSBTB30/blob/main/Labexam.ipynb(Lab Exam)
 https://github.com/2303A51980/23CSBTB30/blob/main/Assignment_9.ipynb(ASS 9)
+https://colab.research.google.com/drive/1rRvWuewirLqh01GTMbV-SVPyhKs4sbnI  (ASS 10)
